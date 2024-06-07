@@ -75,6 +75,11 @@
   display: block;
 }
 
+.text-block-2.opening-soon {
+  padding-top: 16px;
+  font-size: 30px;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     margin-top: 42px;
